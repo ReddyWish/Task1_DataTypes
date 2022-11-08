@@ -2,7 +2,7 @@ const name = 'ilya';
 const age = 30;
 const likesDogs = true;
 const empty = null;
-let demonstrationOfUndefined;
+const demonstrationOfUndefined = undefined;
 const demonstrationOfBigNum = 989897875784176767514574657495n;
 const demonstrationOfSymbol = Symbol('id');
 const demonstrationOfObject = {
